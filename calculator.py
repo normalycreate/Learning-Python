@@ -1,3 +1,4 @@
+"""THIS PROJECT IS NOT FINISHED!"""
 import math
 import itertools
 from termcolor import colored
